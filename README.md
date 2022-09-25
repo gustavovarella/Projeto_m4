@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/106848389/180666234-915735fb-ebe4-4d95-80d0-470a129a5fab.png)
+
 ## Análise Exploratória
 
 # Projeto do Módulo 4 - Data Analytics (Turma 20) Resilia
